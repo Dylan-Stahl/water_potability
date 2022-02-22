@@ -6,7 +6,7 @@ potability testing strategy. Competing water testing companies have created fast
 using machine learning, the company’s testing times would be significantly reduced, making PWTS a stronger competitor. By creating a web-based machine-learning 
 application that can analyze a water sample, PWTS employees can quickly process tests, increasing customer satisfaction.
 
-## Application Description
+## Proposed Application Description
 The Water Potability Classification application is a data science-based application that uses machine learning techniques to improve PWTS testing strategies. 
 Upon opening the web application, users will notice that the application is simple to use. A sidebar on the left side of the page requests water data input from 
 the user to predict the potability of the water sample. Information about the machine learning algorithm is provided underneath the prediction data, along with
@@ -22,11 +22,11 @@ needed for this project and can display Matplotlib graphs nicely. Streamlit is a
 interactive user website with minimal code needed. Streamlit’s API includes widgets that can be used on the website. For example, slider input widgets can be 
 used to get users’ input water samples.  
 
-## Access to Project:
+## Access to Project
 Users can run the finished web application on the latest Google Chrome, Firefox, Microsoft Edge, and Safari browsers. 
 It can be accessed here: https://waterpotabilityclf.herokuapp.com/.
 
-## How to Use:
+## How to Use
 The sidebar on the left side of the page is where the user will enter water samples. Use the sliders to adjust the values. 
 Click the “Analyze Water” button below the sliders to calculate the results when all the values are entered. 
 Under the “Your Water Sample Results:” section will be the prediction along with the probability that the machine learning model thinks it is correct.
